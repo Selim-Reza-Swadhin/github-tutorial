@@ -1,1 +1,1 @@
-﻿# github-tutorial-gh-pages
+# github-tutorial-my-computer
